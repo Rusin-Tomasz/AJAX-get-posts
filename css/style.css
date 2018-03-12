@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+#post-list-container .list-item {
+   margin-bottom: 20px; 
+    
+}
+
+#post-list-container img {
+    height: 300px;
+    width: 300px;
+}
+
+#post-list-container figcaption {
+    font-size: 1.4em;
+}
+
+#load-content {
+    font-size: 2em;
+    width: 100%;
+    background-color: #2fcea9;
+    color: #FFF;
+    text-transform: uppercase;
+    padding: 30px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 2px solid #2fcea9;
+}
+
+#load-content:hover {
+    background-color: #FFF; 
+    color: #2fcea9;
+}
+
+
+
+
+
+
+
